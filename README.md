@@ -3,7 +3,6 @@
 - Identify the main factors influencing Telco Churn
 - Guide through the process of building a machine learning classification model.
 - Provide key points, explanations, and takeaways throughout the process
-
 ## Data Dictionary 
 - Gender (1 = Male, 0 = Female)
 - Senior_citizen (1 = Is a senior citizen, 0 = Not senior citizen)
