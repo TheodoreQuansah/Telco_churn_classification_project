@@ -50,30 +50,30 @@ My initial hypothesis is that tenure has the strongest relationship to churn so 
 
   * This table provides a clear definition of each feature present in the dataset along with their respective descriptions.
 
-| Feature                | Definition |
-|:-----------------------|:-----------|
-| gender                 | Gender of the customer |
-| senior_citizen         | 0 if not a senior citizen, 1 if a senior citizen |
-| partner                | Whether the customer has a partner (Yes/No) |
-| dependents             | Whether the customer has dependents (Yes/No) |
-| tenure                 | Number of months the customer has been with the company |
-| phone_service          | Whether the customer has phone service (Yes/No) |
-| multiple_lines         | Whether the customer has multiple lines (Yes/No) |
-| online_security        | Whether the customer has online security (Yes/No) |
-| online_backup          | Whether the customer has online backup (Yes/No) |
-| device_protection      | Whether the customer has device protection (Yes/No) |
-| tech_support           | Whether the customer has tech support (Yes/No) |
-| streaming_tv           | Whether the customer has streaming TV (Yes/No) |
-| streaming_movies       | Whether the customer has streaming movies (Yes/No) |
-| paperless_billing      | Whether the customer has paperless billing (Yes/No) |
-| monthly_charges        | Monthly charges for the customer |
-| total_charges          | Total charges incurred by the customer |
-| churn                  | Whether the customer has churned (Yes/No) |
-| payment_type           | Method of payment for the service |
-| contract_type          | Type of contract (e.g., Month-to-Month, One/Two Years) |
-| internet_service_type  | Type of internet service (e.g., DSL, Fiber optic) |
+| Feature                | Definition | Data Type |
+|:-----------------------|:-----------|:----------|
+| gender                 | Gender of the customer | Object |
+| senior_citizen         | 0 if not a senior citizen, 1 if a senior citizen | Integer |
+| partner                | Whether the customer has a partner (Yes/No) | Object |
+| dependents             | Whether the customer has dependents (Yes/No) | Object |
+| tenure                 | Number of months the customer has been with the company | Integer |
+| phone_service          | Whether the customer has phone service (Yes/No) | Object |
+| multiple_lines         | Whether the customer has multiple lines (Yes/No) | Object |
+| online_security        | Whether the customer has online security (Yes/No) | Object |
+| online_backup          | Whether the customer has online backup (Yes/No) | Object |
+| device_protection      | Whether the customer has device protection (Yes/No) | Object |
+| tech_support           | Whether the customer has tech support (Yes/No) | Object |
+| streaming_tv           | Whether the customer has streaming TV (Yes/No) | Object |
+| streaming_movies       | Whether the customer has streaming movies (Yes/No) | Object |
+| paperless_billing      | Whether the customer has paperless billing (Yes/No) | Object |
+| monthly_charges        | Monthly charges for the customer | Float |
+| total_charges          | Total charges incurred by the customer | Object |
+| churn                  | Whether the customer has churned (Yes/No) | Object |
+| payment_type           | Method of payment for the service | Object |
+| contract_type          | Type of contract (e.g., Month-to-Month, One/Two Years) | Object |
+| internet_service_type  | Type of internet service (e.g., DSL, Fiber optic) | Object |
 
-This table provides a clear definition of each feature present in the dataset along with their respective descriptions.
+
  
 # Steps to Reproduce
 1) Clone this repository by clicking on the SSH link.
