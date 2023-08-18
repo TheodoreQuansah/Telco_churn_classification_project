@@ -4,9 +4,9 @@
 - Guide through the process of building a machine learning classification model.
 - Provide key points, explanations, and takeaways throughout the process
 ## Hypothesis
-- Why are customers churning.
-- What are the biggest factors that drives churn.
-- What recommendations may help reduce churn.
+- Why are customers churning?
+- What are the biggest factors that drives churn?
+- What recommendations may help reduce churn?
 ## Data Dictionary 
 - Tenure = How long the customer has been with the company.
 - Monthly_charges = The amount the customer pays monthly.
