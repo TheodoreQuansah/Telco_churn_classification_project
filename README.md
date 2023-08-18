@@ -28,3 +28,25 @@
 - Contract_type_one/two-years = If the customer's contract is a one or two year plan vs a monthly plan(True/False).
 - Internet_service_type_Fiber optic = If the customer has fiber optic or DSL as their internet source(True/False).
 - Paperless_billing_Yes = If the customer receives their bill through a paper mail or an electronic mail(True/False)
+## Planning 
+- Acquire
+  - bring in data
+- Preparation
+  - handle nulls
+  - encode features
+  - drop columns
+  - add columns
+  - combine columns
+- Exploration
+  - Visualizations
+  - Find drivers of churn
+  - Hypothesis Test
+  - T-Test, Independent 2 Tail
+  - Chi Square Test
+- Modeling
+  - Evaluation
+  - 3 models
+  - Test
+  - best model
+  - Conclusion
+  - key takeaways
