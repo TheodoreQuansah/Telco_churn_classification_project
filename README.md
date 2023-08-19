@@ -82,8 +82,28 @@ My initial hypothesis is that tenure has the strongest relationship to churn so 
    ii) Add the env.py file to the .gitignore file to keep your sensitive information secure.
 4) Run the Jupyter Notebook file in your local environment.
  
-# Takeaways and Conclusions
+# Conclusions
+- Having tech support greatly reducing the customers probability of churning.
+- The longer the customer has been with the company the less likely they are to churn.
+- New customers tend to have a high churn rate.
+- Customers with a monthly plan have a higher churn rate than customers with a yearly plan.
+- Customers with DSL tend to have a significantly lower churn rate compared to customers with Fiber optics.
+- It is apparent that senior citizens, although a minority of customer churn, exhibit a considerably higher churn rate in comparison to non-senior citizen customers.
+
+# Takeaways
+i) Contract Type: In the decision tree model, contract type stands out as the most crucial feature with an importance score of around 0.619. It also holds significance in the random forest model, ranking second with an importance score of approximately 0.1987.
+
+ii) Tenure: Tenure is the second most important feature in the decision tree model, with an importance score of roughly 0.194. Interestingly, it takes the lead in importance in the random forest model, where its score is approximately 0.209.
+
+iii) Monthly Charges: Monthly charges emerge as the third most important feature in the random forest model, with an importance score of about 0.142.
+
+iv) Internet Service Type: In the decision tree model, internet service type holds the third position in importance, with a score of roughly 0.167. It also maintains significance in the random forest model, ranking fifth with an importance score of approximately 0.113.
+
+v) Total Charges: Total charges play a role in churn prediction and are considered the fourth most important feature in the random forest model, with an importance score of approximately 0.132.
 
  
 # Recommendations
-
+- Encourage customers to choose longer-term contracts, such as one or two-year contracts, as these seem to have a positive impact on customer retention.
+- Consider implementing retention strategies or loyalty programs that reward customers for their longevity with the company.
+- Explore options to optimize pricing strategies to make them more competitive in the market without compromising quality.
+- Continuously collect feedback from customers who have churned to understand their reasons for leaving. Use this information to make improvements in areas that matter most to customer
