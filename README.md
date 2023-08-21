@@ -13,7 +13,15 @@ In the competitive landscape of telecommunications, understanding the factors th
  
 # Initial Thoughts
  
-My initial hypothesis is that tenure has the strongest relationship to churn so the longer the customer stays at the company the lesslikely they are to churn.
+* My initial hypothesis is that tenure has the strongest relationship to churn so the longer the customer stays at the company the lesslikely they are to churn.
+
+# Initial Questions
+
+* Does having tech support affects churn?  
+* Does tenure have a direct relationship with churn?  
+* Does the contract type affect churn?   
+* Does internet service type have a strong relationship with churn? 
+
  
 # The Plan
  
