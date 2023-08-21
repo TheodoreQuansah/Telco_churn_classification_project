@@ -63,6 +63,7 @@ In the competitive landscape of telecommunications, understanding the factors th
 
 | Feature                | Definition | Data Type |
 |:-----------------------|:-----------|:----------|
+| customer_id            | customers unique identification number | Object |
 | gender                 | Gender of the customer | Object |
 | senior_citizen         | 0 if not a senior citizen, 1 if a senior citizen | Integer |
 | partner                | Whether the customer has a partner (Yes/No) | Object |
