@@ -11,16 +11,19 @@ In the competitive landscape of telecommunications, understanding the factors th
 * Provide Actionable Insights: Translate complex data analysis into actionable insights and recommendations for Telco.
 * Long-Term Churn Prevention: Extend the project's impact beyond immediate insights by creating a roadmap for ongoing churn prevention.
  
-# Initial Thoughts
- 
-* My initial hypothesis is that tenure has the strongest relationship to churn so the longer the customer stays at the company the lesslikely they are to churn.
 
 # Initial Questions
 
+* What are the biggest drivers of churn?
 * Does having tech support affects churn?  
 * Does tenure have a direct relationship with churn?  
 * Does the contract type affect churn?   
-* Does internet service type have a strong relationship with churn? 
+* Does internet service type have a strong relationship with churn?
+* How do we mitigate churn?
+
+# Initial Thoughts
+ 
+* My initial hypothesis is that tenure has the strongest relationship to churn so the longer the customer stays at the company the lesslikely they are to churn.
 
  
 # The Plan
