@@ -79,8 +79,8 @@ def create_tech_support_churn_plot(data):
     # Set the title of the plot
     plt.title("Tech support Distribution by Churn")
 
-    # Label the x-axis
-    plt.xlabel("Tech support")
+    # Label the x-axis with more descriptive labels
+    plt.xlabel("Tech support (False = No tech support, True = Has tech support)")
 
     # Label the y-axis
     plt.ylabel("Count")
